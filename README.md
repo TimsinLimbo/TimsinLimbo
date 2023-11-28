@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimsinLimbo
-- 👀 I’m interested in ... Game Development
-- 🌱 I’m currently learning ... c#, c++, & python
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning c#, c++, & python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
